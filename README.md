@@ -47,9 +47,6 @@ Result: You lose! Gun shoots Snake.
 
 📌 Future Improvements
 
-Add a scoring system
-
-Allow multiple rounds in a single run
 
 Option to play against another player
 
